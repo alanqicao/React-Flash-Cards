@@ -8,7 +8,7 @@ const Flashcards = ({flashcards,remove,})=> (
 <Table celled padded>
     <Table.Header>
       <Table.Row>
-        <Table.HeaderCell>Flash Cards</Table.HeaderCell>
+        <Table.HeaderCell>Question</Table.HeaderCell>
         {/* <Table.HeaderCell>Answer</Table.HeaderCell> */}
         <Table.HeaderCell>Options</Table.HeaderCell>
       </Table.Row>
